@@ -1,0 +1,3 @@
+# docker-useful-desktop
+some Dockerfile and information to run desktop apps (gis et al.) on either linux or mac... 
+material to be scavenged around (with link/credit)
